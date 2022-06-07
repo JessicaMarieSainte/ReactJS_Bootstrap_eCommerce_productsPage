@@ -1,0 +1,13 @@
+.sliderImg {
+  object-fit: contain;
+}
+
+#carousel-btn {
+  height: 7px;
+}
+
+span.carousel-control-prev-icon,
+span.carousel-control-next-icon {
+  width: 32px;
+  height: 32px;
+}
